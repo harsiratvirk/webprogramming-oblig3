@@ -1,13 +1,12 @@
-# Webprogramming_Oblig3
-OsloMet username: hakau9101
+# Submission 3 for DATA1700 Web Programming
 
-GitHub username: harsiratvirk
+**OsloMet username:** hakau9101
 
-Github repo URL: https://github.com/harsiratvirk/Webprogramming_Oblig3
+**GitHub username:** harsiratvirk
 
-Full Name: Harsirat Kaur
+**Github repo URL:** https://github.com/harsiratvirk/Webprogramming_Oblig3
 
-Brief description of application:
+**Brief description of application:**
 
 This Spring Boot project provides a form for ordering cinema tickets. Users can select a film, 
 the number of tickets and provide personal details to receive cinema ticket(s). 
