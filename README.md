@@ -4,7 +4,7 @@
 
 **GitHub username:** harsiratvirk
 
-**Github repo URL:** https://github.com/harsiratvirk/Webprogramming_Oblig3
+**Github repo URL:** https://github.com/harsiratvirk/webprogramming-oblig3.git
 
 **Brief description of application:**
 
